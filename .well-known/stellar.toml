@@ -1,1 +1,8 @@
+NETWORK_PASSPHRASE="Test SDF Network ; September 2015"
 
+[[CURRENCIES]]
+code="NLD"
+issuer="GBMZ5W4R7IYTVP6FIN4NT5CUIBETYFKNVXEI..."
+name="NLD Token"
+desc="Nhan Lac Do Token"
+conditions="Test token for Pi ecosystem"
